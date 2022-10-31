@@ -3,7 +3,7 @@
 #### Freelance - Junior Backend Developer
 ##### I'm passionate about technologies and love to learn new things. I have some experience developing Websites, Apps, APIs and others digital products. Mainly I work with Python. Also I have one year experience developing C#
 
-##### 💻 I'm currently working as Software Engineer at Marvin Space
+##### 💻 I'm currently working as Software Engineer at Marvin AI
 
 ## ⚡ Tech Stack
 
