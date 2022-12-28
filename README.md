@@ -16,7 +16,7 @@ Here are a few things I've picked up along my life.
 
 ## :coffee: Let's Connect 
 <p align="center">
-	<a href="https://github.com/doctsystems"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/zuhurialtun"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/zuhuri/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/Zuhuri_Altun"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
 	<a href="mailto:zuhuri312@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="Instagram"/></a>
