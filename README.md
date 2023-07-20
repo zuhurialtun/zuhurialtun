@@ -24,3 +24,4 @@ Here are a few things I've picked up along my life.
 </p>
 
 
+<a href="https://www.buymeacoffee.com/zuhuri"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zuhuri&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
